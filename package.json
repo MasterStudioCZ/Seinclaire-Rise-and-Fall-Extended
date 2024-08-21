@@ -1,0 +1,11 @@
+{
+	"id" : "seinclaireRiseAndFallExpanded",
+	"name" : "Seinclaire: Rise and Fall Expanded",
+	"version" : "0.1.0",
+	"author" : "MasterStudioCZ <czmasterstudio@gmail.com>",
+	"description" : "A mod that is supposed to complement the original 'Seinclaire: Rise and Fall'. It includes many clone devices.",
+	"main" : "./myScript.js",
+	"dependencies" : {
+		"gdt-modAPI":"0.1.x"
+	}
+}
